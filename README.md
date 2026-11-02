@@ -75,6 +75,17 @@ Conclusion
 
 This project demonstrates how machine learning regression algorithms can be used to predict fish weight based on physical measurements. It also provides practical experience in data preprocessing, model training, evaluation, visualization, and model deployment preparation.
 
+## Project Visualizations
+
+### Model Comparison
+![Model Comparison](Results/model_comparison.png)
+
+### Actual vs Predicted Fish Weight
+![Actual vs Predicted](Results/actual_vs_predicted.png)
+
+### Feature Impact Analysis
+![Feature Impact](Results/feature_impact.png)
+
 Internship
 
 YBI Foundation – Business and Data Analyst Internship
